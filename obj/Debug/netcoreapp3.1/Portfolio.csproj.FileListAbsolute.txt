@@ -17,3 +17,14 @@
 /Users/javanogden/Desktop/Portfolio/obj/Debug/netcoreapp3.1/Portfolio.dll
 /Users/javanogden/Desktop/Portfolio/obj/Debug/netcoreapp3.1/Portfolio.pdb
 /Users/javanogden/Desktop/Portfolio/obj/Debug/netcoreapp3.1/Portfolio.genruntimeconfig.cache
+/Users/javanogden/Desktop/Portfolio/bin/Debug/netcoreapp3.1/Portfolio.Views.dll
+/Users/javanogden/Desktop/Portfolio/bin/Debug/netcoreapp3.1/Portfolio.Views.pdb
+/Users/javanogden/Desktop/Portfolio/obj/Debug/netcoreapp3.1/Portfolio.RazorAssemblyInfo.cache
+/Users/javanogden/Desktop/Portfolio/obj/Debug/netcoreapp3.1/Portfolio.RazorAssemblyInfo.cs
+/Users/javanogden/Desktop/Portfolio/obj/Debug/netcoreapp3.1/Portfolio.TagHelpers.input.cache
+/Users/javanogden/Desktop/Portfolio/obj/Debug/netcoreapp3.1/Portfolio.TagHelpers.output.cache
+/Users/javanogden/Desktop/Portfolio/obj/Debug/netcoreapp3.1/Portfolio.RazorCoreGenerate.cache
+/Users/javanogden/Desktop/Portfolio/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/javanogden/Desktop/Portfolio/obj/Debug/netcoreapp3.1/Portfolio.RazorTargetAssemblyInfo.cs
+/Users/javanogden/Desktop/Portfolio/obj/Debug/netcoreapp3.1/Portfolio.Views.pdb
+/Users/javanogden/Desktop/Portfolio/obj/Debug/netcoreapp3.1/Portfolio.csproj.CopyComplete
